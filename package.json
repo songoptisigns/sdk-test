@@ -1,5 +1,5 @@
 {
-  "name": "sdk-test-songsen-chen",
+  "name": "@optisigns/sdk-test",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
