@@ -1,3 +1,3 @@
 module.exports = {
-    hello: () => 'Hello from @optisigns/sdk-test!',
+    hello: () => 'Hello from sdk-test-songsen-chen!',
 };
